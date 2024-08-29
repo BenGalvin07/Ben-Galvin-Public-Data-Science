@@ -7,11 +7,6 @@ I used the following apporach to complete my methodology
 I collected the data from the following Link
 
 # Images
-![Image1](Assets/Data Science 1600x800.jpg)
-
-
-
-
-
+![Data Science 1600x800](https://github.com/user-attachments/assets/42096426-4281-4741-899a-b9391f34e293)
 
 
