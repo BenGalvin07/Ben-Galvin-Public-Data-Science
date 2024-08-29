@@ -7,9 +7,8 @@ I used the following apporach to complete my methodology
 I collected the data from the following Link
 
 # Images
-![Images1](assets/Data Science 1600x800.jpg)
+![Image1](Assets/Data Science 1600x800.jpg)
 
-![Image Name](assets/Data Science 1600x800.jpg)
 
 
 
