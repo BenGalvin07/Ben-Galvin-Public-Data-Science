@@ -1,6 +1,10 @@
 # Electric Vehicle Battery Sizes and Driving Distance
 
-## Header 2
+## Methodology
+I used the following apporach to complete my methodology 
+
+## Data Collection
+I collected the data from the following Link
 
 # Images
 ![Image Name](assets/20230814_231938.jpg)
