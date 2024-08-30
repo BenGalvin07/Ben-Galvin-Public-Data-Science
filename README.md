@@ -14,6 +14,13 @@ Pre Cleaning Dataset
 Columns to be Removed
 ![Excel - Data Set Cleanse - Remove Data](https://github.com/user-attachments/assets/dccbf60b-0906-40b8-ab7f-9f15ba1c19f0)
 
+Data Manipulates to set the columns
+![Excel - Data Set Cleanse 2](https://github.com/user-attachments/assets/3a0b8261-b577-4073-8ce4-9e2db5f9d711)
+
+Missing Data which is not availble and the reasons why
+![Fast Charging Data](https://github.com/user-attachments/assets/eb4cf806-de12-491e-aadf-b7faabdd0933)
+
+
 
 
 Data Ready for Upload
