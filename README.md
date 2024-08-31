@@ -76,6 +76,9 @@ A scatter plot was created to show the Values of the cars when hovered over in t
 
 <img src="assets/05DataandViz.JPG" width="300">
 
+Finally a Trend line and average lines were added to the final scatter plot to create the Linear regression chart
+
+<img src="assets/06TrendLine.JPG" width="500"> <img src="assets/07CrossLines.JPG" width="500">
 
 
 
