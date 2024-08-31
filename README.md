@@ -10,9 +10,7 @@ The data that was used for the analysis of this project was downloaded from Kagg
 
 Pre Cleaning Dataset
 
-<img src="assets/DataScience1600x800.jpg" width="100">
-
-![](assets/DataScience1600x800.jpg)
+<img src="assets/DataScience1600x800.jpg" width="500">
 
 <img src
 
