@@ -44,6 +44,8 @@ The different stages of the manipulation can be found in the below images:
 <img src="assets/DataManip4Len.JPG" width="600">
 
 
+## Data Analysis
+
 **Data Analysis - Excel**
 
 The data from the Usable Battery kWh and Range KM to create the data points for the linear regression. the X Axis will be the Battery Size kWh and the Y Axis will be the Range KM, the below screenshot shows the items being selected for the regression analysis. 
@@ -53,3 +55,9 @@ The data from the Usable Battery kWh and Range KM to create the data points for 
 The next step was to format the X & Y axis to ensure they were titled correctly, also had to ensure the legend was labled correctly. A Linear trend line was also added
 
 <img src="assets/2ExcelRegression Data.JPG" width="600">
+
+
+
+
+
+## Results
