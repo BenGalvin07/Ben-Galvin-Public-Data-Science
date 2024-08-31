@@ -56,7 +56,9 @@ The next step was to format the X & Y axis to ensure they were titled correctly,
 
 <img src="assets/2ExcelRegression Data.JPG" width="600">
 
+The results are shownn in the next two screenshots and will be discussed in the results section
 
+<img src="assets/4NewExcelData.JPG" width="500"> <img src="assets/3SummaryOutput.JPG" width="300">
 
 
 
