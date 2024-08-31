@@ -50,3 +50,6 @@ The data from the Usable Battery kWh and Range KM to create the data points for 
 
 <img src="assets/1ExcelRegressionSelection.JPG" width="600">
 
+The next step was to format the X & Y axis to ensure they were titled correctly, also had to ensure the legend was labled correctly. A Linear trend line was also added
+
+<img src="assets/2ExcelRegression Data.JPG" width="600">
