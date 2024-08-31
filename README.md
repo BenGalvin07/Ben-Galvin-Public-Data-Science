@@ -2,7 +2,7 @@
 
 # Electric Vehicle Battery Sizes and Driving Distance
 
-## Methodology
+## Introduction
 I used the following apporach to complete my methodology
 
 ## Data Collection
