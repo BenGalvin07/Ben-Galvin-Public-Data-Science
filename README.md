@@ -8,7 +8,7 @@ I used the following apporach to complete my methodology
 ## Data Collection
 The data that was used for the analysis of this project was downloaded from Kaggle. The Dataset [Cheapest Electric Cars 2023](https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars)
 
-Pre Cleaning Dataset
+Pre Clean Dataset
 
 The data was downloaded in the format that can be seen in the image below. There was excess data in columns that wouldnt be required for this peice of analysis. 
 
@@ -24,7 +24,7 @@ The columns highlighted in green would remain in the final clean cut of data. Th
 
 
 Missing Data which is not availble and the reasons why
-![Fast Charging Data](https://github.com/user-attachments/assets/eb4cf806-de12-491e-aadf-b7faabdd0933)
+
 
 Data Manipulates to set the columns
 ![New - Clean Data](https://github.com/user-attachments/assets/36d0bdf9-2fa8-46d2-99ca-cd172328699c)
