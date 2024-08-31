@@ -30,4 +30,6 @@ Within one column of data, the fast charging column two rows of data were missin
 **Data Manipulation**
 The column tiles were manipulated to ensure the information was ready for analysis in Power BI and Excel. 
 The following adjustments were made:
-- Column titles to be named clearly with units of measurement inside
+- Column titles to be named clearly with units of measurement inside (kWh and kms)
+- Data editing to remove the km from the Range km Column as the title had the units of measurements
+- Removal of excess characters in column Useable Battery kWh as this would prevent analysis. The excess characters were removed by a LEN function and Find and Replace
