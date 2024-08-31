@@ -14,10 +14,13 @@ The data was downloaded in the format that can be seen in the image below. There
 
 <img src="assets/ExcelPreCleanDataSetcopy.JPG" width="600">
 
+**Columns to be Removed**
+
+The columns highlighted in green would remain in the final clean cut of data. The data in the columns highlighted in Red/Orange would be removed. 
+
+<img src="assets/Columnstodelete.JPG" width="600">
 
 
-Columns to be Removed
-![Excel - Data Set Cleanse - Remove Data](https://github.com/user-attachments/assets/dccbf60b-0906-40b8-ab7f-9f15ba1c19f0)
 
 Missing Data which is not availble and the reasons why
 ![Fast Charging Data](https://github.com/user-attachments/assets/eb4cf806-de12-491e-aadf-b7faabdd0933)
