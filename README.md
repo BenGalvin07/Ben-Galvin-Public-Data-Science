@@ -72,6 +72,9 @@ The data was then transformed into the correct data types becuase power BI didnt
 
 <img src="03datatransformation.JPG" width="500"> <img src="04Datatypeselection.JPG" width="500"> 
 
+A scatter plot was created to show the Values of the cars when hovered over in the values column, with the X Axis being the Useable Battery and the Y Axis being the Range KM. 
+
+<img src="05DataandViz.JPG" width="300">
 
 
 
