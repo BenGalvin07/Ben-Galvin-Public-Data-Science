@@ -64,6 +64,10 @@ The results are shownn in the next two screenshots and will be discussed in the 
 
 The data was also input into Power BI to create some visuals and a small dashboard to give an details of the EV with the highest range in KM and the EV with the shortest range in KM
 
+The data was loaded directly from One Drive using the Excel get data function
+
+<img src="01Dataload.JPG" width="500"> <img src="02Datalocation.jpg" width="400">
+
 
 
 
