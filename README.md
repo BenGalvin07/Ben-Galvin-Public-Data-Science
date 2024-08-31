@@ -66,15 +66,15 @@ The data was also input into Power BI to create some visuals and a small dashboa
 
 The data was loaded directly from One Drive using the Excel get data function
 
-<img src="01Dataload.JPG" width="500"> <img src="02Datalocation.jpg" width="400">
+<img src="assets/01Dataload.JPG" width="500"> <img src="assets/02Datalocation.jpg" width="400">
 
 The data was then transformed into the correct data types becuase power BI didnt recognise the data in the Useable Battery kWh column. it was corrected to Decimal Number. The screenshot show the before transformation and after
 
-<img src="03datatransformation.JPG" width="500"> <img src="04Datatypeselection.JPG" width="500"> 
+<img src="assets/03datatransformation.JPG" width="500"> <img src="assets/04Datatypeselection.JPG" width="500"> 
 
 A scatter plot was created to show the Values of the cars when hovered over in the values column, with the X Axis being the Useable Battery and the Y Axis being the Range KM. 
 
-<img src="05DataandViz.JPG" width="300">
+<img src="assets/05DataandViz.JPG" width="300">
 
 
 
