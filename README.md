@@ -33,3 +33,12 @@ The following adjustments were made:
 - Column titles to be named clearly with units of measurement inside (kWh and kms)
 - Data editing to remove the km from the Range km Column as the title had the units of measurements
 - Removal of excess characters in column Useable Battery kWh as this would prevent analysis. The excess characters were removed by a LEN function and Find and Replace
+
+The different stages of the manipulation can be found in the below images:
+<img src="assets/ColumnManip1.JPG" width="600">
+
+<img src="assets/DataManipulation2.JPG" width="600">
+
+<img src="assets/DataManip3.JPG" width="600">
+
+<img src="assets/DataManip4Len.JPG" width="600">
