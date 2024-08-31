@@ -42,3 +42,6 @@ The different stages of the manipulation can be found in the below images:
 <img src="assets/DataManip3.JPG" width="600">
 
 <img src="assets/DataManip4Len.JPG" width="600">
+
+
+**Data Analysis - Excel**
