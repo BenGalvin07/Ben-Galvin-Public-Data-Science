@@ -22,9 +22,12 @@ The columns highlighted in green would remain in the final clean cut of data. Th
 
 **Missing Data**
 
-<imf src="assets/FastChargingData.JPG" width="600">
+<img src="assets/FastChargingData.JPG" width="600">
 
 Within one column of data, the fast charging column two rows of data were missing, to ensure the data was complete, the manufacturers website was consulted to obtain the missing information. As the two vehicles do you use fast charging, there will be no data and therefore the information is replaced with dashes.
 
 
 **Data Manipulation**
+The column tiles were manipulated to ensure the information was ready for analysis in Power BI and Excel. 
+The following adjustments were made:
+- Column titles to be named clearly with units of measurement inside
