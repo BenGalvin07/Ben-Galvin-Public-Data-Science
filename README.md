@@ -9,7 +9,7 @@ I used the following apporach to complete my methodology
 The data that was used for the analysis of this project was downloaded from Kaggle. The Dataset [Cheapest Electric Cars 2023](https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars)
 
 Pre Cleaning Dataset
-![Picture](assets/Data Science 1600x800.jpg)
+![](assets/DataScience1600x800.jpg)
 
 <img scr="assets/Data Science 1600x800.jpg" width="10"/>
 
