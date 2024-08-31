@@ -3,7 +3,7 @@
 # Electric Vehicle Battery Sizes and Driving Distance
 
 ## Introduction
-I used the following apporach to complete my methodology
+The reason why I was interested in understanding the battery size/capacity and the range in KM is because I purchased my first electric vehicle in 2023 but did no prior research into batter sizes and what this would mean in terms of drivable distance as a result, I purchased a car, that was excellent to drive, cheap to charge but was unable to do a long distance drive without having to stop multiple times, using expensive public charging locations. Using the knowledge and skills learnt during my Data Science degree, I am now able to analyse data from the EV car market and make a more details and informed choice of what car to purchase next time.
 
 ## Data Collection
 The data that was used for the analysis of this project was downloaded from Kaggle. The Dataset [Cheapest Electric Cars 2023](https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars)
@@ -59,6 +59,13 @@ The next step was to format the X & Y axis to ensure they were titled correctly,
 The results are shownn in the next two screenshots and will be discussed in the results section
 
 <img src="assets/4NewExcelData.JPG" width="500"> <img src="assets/3SummaryOutput.JPG" width="300">
+
+**Data Analysis - Power BI**
+
+The data was also input into Power BI to create some visuals and a small dashboard to give an details of the EV with the highest range in KM and the EV with the shortest range in KM
+
+
+
 
 
 
