@@ -80,6 +80,9 @@ Finally a Trend line and average lines were added to the final scatter plot to c
 
 <img src="assets/06TrendLine.JPG" width="500"> <img src="assets/07CrossLines.JPG" width="500">
 
+For a little bit of fun, a card was added to show the longest and shortest range EVs in the dataset, along with the filters used to create them
 
+<img src="assets/08MaxRange.JPG" width="500"> 
+<img src="assets/09MinRange.JPG" width="500">
 
 ## Results
