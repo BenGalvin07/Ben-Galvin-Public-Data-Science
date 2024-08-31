@@ -45,3 +45,8 @@ The different stages of the manipulation can be found in the below images:
 
 
 **Data Analysis - Excel**
+
+The data from the Usable Battery kWh and Range KM to create the data points for the linear regression. the X Axis will be the Battery Size kWh and the Y Axis will be the Range KM, the below screenshot shows the items being selected for the regression analysis. 
+
+<img src="assets/1ExcelRegressionSelection.JPG" width="600">
+
