@@ -86,3 +86,8 @@ For a little bit of fun, a card was added to show the longest and shortest range
 <img src="assets/09MinRange.JPG" width="500">
 
 ## Results
+
+The analysis conducted on the relationship between the EV battery capacity and the size of their usable battery demonstrates a strong positive correlation between the two. Using linear regression, the results indicate that as the battery capacity increases, the range available to the vehicle also increases.
+The multiple R value of 0.89 suggests a very strong positive correlation between the variables, indicating that the model’s predictions are closely aligned with the actual data. The R-squared value of 0.79 indicates that approximately 79% of the variance in the EV range can be explained by the battery capacity alone.
+This high R-squared value suggests that battery capacity is a reliable predictor of the range, though 21% of the variance is attributed to other factors not included in the model. This could include different outside factors which could influence the range, such as weight, the design, and the driving conditions when the range was calculated.
+The findings demonstrate the importance of battery capacity in determining the usability and practicality of electric vehicles. To answer the question, does a useable battery size on an Electric Car (EV) result in longer range in KMs? Would be a positive yes, more usable battery would indicate more useable range.
