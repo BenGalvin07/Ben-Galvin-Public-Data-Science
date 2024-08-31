@@ -22,6 +22,7 @@ The columns highlighted in green would remain in the final clean cut of data. Th
 
 
 
+
 Missing Data which is not availble and the reasons why
 ![Fast Charging Data](https://github.com/user-attachments/assets/eb4cf806-de12-491e-aadf-b7faabdd0933)
 
