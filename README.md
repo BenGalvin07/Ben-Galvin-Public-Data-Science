@@ -22,4 +22,9 @@ The columns highlighted in green would remain in the final clean cut of data. Th
 
 **Missing Data**
 
+<imf src="assets/FastChargingData.JPG" width="600">
+
+Within one column of data, the fast charging column two rows of data were missing, to ensure the data was complete, the manufacturers website was consulted to obtain the missing information. As the two vehicles do you use fast charging, there will be no data and therefore the information is replaced with dashes.
+
+
 **Data Manipulation**
