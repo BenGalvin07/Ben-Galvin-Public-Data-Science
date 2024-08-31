@@ -10,9 +10,10 @@ The data that was used for the analysis of this project was downloaded from Kagg
 
 Pre Cleaning Dataset
 
-<img src="assets/DataScience1600x800.jpg" width="500">
+The data was downloaded in the format that can be seen in the image below. There was excess data in columns that wouldnt be required for this peice of analysis. 
 
-<img src
+<img src="assets/ExcelPreCleanDataSetcopy.JPG" width="600">
+
 
 
 Columns to be Removed
